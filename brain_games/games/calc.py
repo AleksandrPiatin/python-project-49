@@ -16,4 +16,4 @@ def game_task():
         correct_answer = str(number_1 + number_2)
     if oper == '*':
         correct_answer = str(number_1 * number_2)
-    return question, correct_answer   
+    return question, correct_answer
