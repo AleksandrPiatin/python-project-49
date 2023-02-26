@@ -8,4 +8,4 @@ How brain-calc work: https://asciinema.org/a/EBexDDUvQov8sEf5owZQCplMg
 
 How brain-gcd work: https://asciinema.org/a/15TkWxE08NYRiFkHml6gS5rzK
 
-How brain-progression work: https://asciinema.org/connect/76e9aa74-f35c-4e86-a037-b30422685260
+How brain-progression work: https://asciinema.org/a/l2jzacsow0H8bwckekpwueDwf
